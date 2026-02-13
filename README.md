@@ -33,6 +33,8 @@ Incluye:
 ## 🚀 Instalación
 
 ```bash
+sudo apt update
+sudo apt upgrade
 git clone https://github.com/K4m1Kz3/Dotfile_Entornoss.git
 cd Dotfile_Entornoss
 chmod +x install.sh
